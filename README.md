@@ -13,8 +13,9 @@
 - 🧠 Experienced in **AI/ML**, **LLM integration**, **Chatbots** with Voyage & Pinecone vector DBs
 - 🔗 Working with **n8n** & **Zapier** for workflow automation and AI agent pipelines
 - 🌱 Currently deepening expertise in **NestJS**, **Nuxt.js**, and **Java Spring Boot**
+- - 🤝Developing scalable backend services for an AI-powered platform using Python, Node.js, and NestJS[wozenaAIplatform](https://wozena.com/)**
 - 👯 Looking to collaborate on **[Ethio Stock Bot](https://stockbot-ethio-bysofi.vercel.app/)**
-- 🤝 Looking for help with **[Ethio Stock](https://ethiostock.netlify.app/)**
+
 - 💬 Ask me about **React, Vue, Next.js, Nuxt.js, AI integrations, Python chatbots**
 - 📫 Reach me at **sofoniyastekalegn@gmail.com**
 
